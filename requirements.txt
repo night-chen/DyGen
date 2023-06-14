@@ -1,0 +1,12 @@
+keras==2.8.0
+matplotlib==3.5.2
+nltk==3.7
+numpy==1.22.3
+pandas==1.4.2
+scikit_learn==1.2.1
+scipy==1.7.3
+seqeval==1.2.2
+torch==1.11.0
+tqdm==4.64.0
+transformers==4.16.2
+wandb==0.12.11

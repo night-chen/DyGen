@@ -1,0 +1,9 @@
+/data/
+/datasets/
+/model_save/
+/cache/
+/*__pycache__/
+*.pyc
+*.DS_Store
+*.pt
+*.pkz
